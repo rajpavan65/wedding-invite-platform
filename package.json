@@ -3,15 +3,42 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --webpack",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "vitest run",
+    "remotion:preview": "npx remotion studio src/remotion/index.ts",
+    "remotion:render": "npx remotion render src/remotion/index.ts royal-rajasthani"
   },
   "dependencies": {
+    "@aws-sdk/client-iam": "^3.1073.0",
+    "@aws-sdk/client-s3": "^3.1072.0",
+    "@aws-sdk/client-sqs": "^3.1072.0",
+    "@aws-sdk/s3-request-presigner": "^3.1072.0",
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
+    "@remotion/cli": "^4.0.481",
+    "@remotion/google-fonts": "^4.0.481",
+    "@remotion/lambda": "^4.0.481",
+    "@remotion/layout-utils": "^4.0.481",
+    "@remotion/light-leaks": "^4.0.481",
+    "@remotion/lottie": "^4.0.481",
+    "@remotion/media-utils": "^4.0.481",
+    "@remotion/player": "^4.0.481",
+    "@remotion/renderer": "^4.0.481",
+    "@remotion/transitions": "^4.0.481",
+    "@supabase/supabase-js": "^2.108.2",
+    "@types/sharp": "^0.31.1",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.18.0",
     "next": "16.2.6",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "remotion": "^4.0.481",
+    "sharp": "^0.35.1",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -20,7 +47,9 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
+    "fast-check": "^4.8.0",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^4.1.9"
   }
 }

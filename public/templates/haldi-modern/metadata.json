@@ -1,0 +1,29 @@
+{
+  "templateId": "haldi-modern",
+  "functionType": "haldi",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Poppins" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Poppins" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#FF9E00", "#FFFFFF", "#2B2B2B", "#FFD98A"],
+    "keyMotif": "minimal geometric sunburst with clean typography",
+    "motifs": [
+      "clean concentric sunburst rings",
+      "bold minimal geometric shapes",
+      "wide negative space and crisp typography",
+      "single amber accent on a bright canvas"
+    ],
+    "moodKeywords": ["modern", "minimal", "bright", "playful"]
+  },
+  "lightLeakIntensity": 0.3
+}

@@ -1,0 +1,28 @@
+{
+  "templateId": "haldi-floral",
+  "functionType": "haldi",
+  "durationFrames": 390,
+  "thumbnailFrame": 90,
+  "avatarSlots": {
+    "bride": { "x": 100, "y": 920, "width": 380, "height": 500, "anchorBottom": false },
+    "groom": { "x": 600, "y": 920, "width": 380, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#FFD23F", "#FFB300", "#FFE08A", "#7CB342"],
+    "keyMotif": "sunlit garden marigold arches",
+    "motifs": [
+      "marigold garlands strung across an open-air mandap",
+      "turmeric petals drifting on a garden breeze",
+      "potted greenery and outdoor foliage",
+      "hanging genda phool and leafy vines"
+    ],
+    "moodKeywords": ["festive", "sunny", "outdoor", "joyful"]
+  }
+}

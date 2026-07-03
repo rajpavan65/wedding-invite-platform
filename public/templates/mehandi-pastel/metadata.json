@@ -1,0 +1,29 @@
+{
+  "templateId": "mehandi-pastel",
+  "functionType": "mehandi",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#D88FA8", "#A7C957", "#F2E2CE", "#7FB069"],
+    "keyMotif": "soft watercolour florals with pastel henna",
+    "motifs": [
+      "dusty-rose watercolour blooms",
+      "delicate pastel henna line-art",
+      "trailing sage-green vines and leaves",
+      "boho dried-flower garlands"
+    ],
+    "moodKeywords": ["soft", "boho", "romantic", "airy"]
+  },
+  "lightLeakIntensity": 0.35
+}

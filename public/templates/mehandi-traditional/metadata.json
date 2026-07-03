@@ -1,0 +1,28 @@
+{
+  "templateId": "mehandi-traditional",
+  "functionType": "mehandi",
+  "durationFrames": 390,
+  "thumbnailFrame": 90,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 900, "width": 360, "height": 520, "anchorBottom": false },
+    "groom": { "x": 610, "y": 900, "width": 360, "height": 520, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1430, "maxWidth": 880, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1550, "maxWidth": 880, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1640 },
+    "venue": { "x": 540, "y": 1700 },
+    "ceremonyTitle": { "x": 540, "y": 1370 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#1B5E3A", "#2E8B57", "#0E3B24", "#A7D7A0"],
+    "keyMotif": "intricate mandala henna line-art",
+    "motifs": [
+      "concentric mandala rings drawn in fine line-art",
+      "paisley henna vines and trailing tendrils",
+      "delicate leaf and floral filigree",
+      "hand-drawn lotus and peacock henna patterns"
+    ],
+    "moodKeywords": ["intimate", "artistic", "traditional", "serene"]
+  }
+}

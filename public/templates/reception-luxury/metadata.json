@@ -1,0 +1,29 @@
+{
+  "templateId": "reception-luxury",
+  "functionType": "reception",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#0B0E1A", "#E8E8F0", "#C0C0C8", "#D4AF37"],
+    "keyMotif": "crystal chandelier glow over a silver ballroom",
+    "motifs": [
+      "cascading crystal chandeliers and string lights",
+      "champagne bokeh and glittering glassware",
+      "platinum-silver drapery with pearl accents",
+      "slow confetti shimmer over a grand ballroom floor"
+    ],
+    "moodKeywords": ["elegant", "luxurious", "refined", "glamorous"]
+  },
+  "lightLeakIntensity": 0.4
+}

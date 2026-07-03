@@ -1,0 +1,28 @@
+{
+  "templateId": "royal-rajasthani",
+  "functionType": "wedding",
+  "durationFrames": 810,
+  "thumbnailFrame": 100,
+  "avatarSlots": {
+    "bride": { "x": 120, "y": 940, "width": 380, "height": 520, "anchorBottom": false },
+    "groom": { "x": 580, "y": 940, "width": 380, "height": 520, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1420, "maxWidth": 920, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1540, "maxWidth": 920, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1640 },
+    "venue": { "x": 540, "y": 1700 },
+    "ceremonyTitle": { "x": 540, "y": 1350 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#6B0F1A", "#D4AF37", "#3A0A12", "#F0D060"],
+    "keyMotif": "cinematic royal palace arches in gold filigree",
+    "motifs": [
+      "sweeping palace arches and jharokha windows",
+      "ornate gold filigree borders",
+      "regal velvet drapery and tassels",
+      "cinematic candlelit grand-hall reveals"
+    ],
+    "moodKeywords": ["majestic", "cinematic", "regal", "grand"]
+  }
+}

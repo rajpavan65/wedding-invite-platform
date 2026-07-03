@@ -1,0 +1,29 @@
+{
+  "templateId": "sangeet-neon",
+  "functionType": "sangeet",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#FF2D95", "#00E5FF", "#FFE600", "#7C00FF"],
+    "keyMotif": "neon laser grid with electric glow bars",
+    "motifs": [
+      "pulsing neon laser beams across a dark club floor",
+      "electric cyan and magenta glow bars",
+      "retro synth grid horizon",
+      "strobing equaliser light columns"
+    ],
+    "moodKeywords": ["electric", "youthful", "high-energy", "vibrant"]
+  },
+  "lightLeakIntensity": 0.55
+}

@@ -1,0 +1,29 @@
+{
+  "templateId": "baraat-royal",
+  "functionType": "baraat",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#E8541E", "#FFC300", "#C81912", "#FFE08A"],
+    "keyMotif": "dhol-driven procession under a marigold canopy",
+    "motifs": [
+      "energetic dhol drummers leading the procession",
+      "marigold garlands and showering flower petals",
+      "festive firecracker bursts over the baraat",
+      "the groom's grand horseback entry with banners"
+    ],
+    "moodKeywords": ["festive", "energetic", "celebratory", "grand"]
+  },
+  "lightLeakIntensity": 0.5
+}

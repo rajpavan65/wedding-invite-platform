@@ -1,0 +1,29 @@
+{
+  "templateId": "wedding-divine",
+  "functionType": "wedding",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#1B7C84", "#E8C547", "#0A2E36", "#F4E4BC"],
+    "keyMotif": "rotating temple mandala with sacred gold geometry",
+    "motifs": [
+      "slowly rotating sacred mandala geometry",
+      "temple gold filigree over deep teal",
+      "diya flames and rising incense glow",
+      "carved gopuram silhouettes"
+    ],
+    "moodKeywords": ["sacred", "serene", "divine", "timeless"]
+  },
+  "lightLeakIntensity": 0.4
+}

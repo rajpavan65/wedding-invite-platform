@@ -1,0 +1,28 @@
+{
+  "templateId": "sangeet-grand",
+  "functionType": "sangeet",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#1A1033", "#FFD700", "#E879F9", "#7C3AED"],
+    "keyMotif": "stage spotlight beams with golden sparkle bursts",
+    "motifs": [
+      "sweeping stage spotlight beams",
+      "golden sparkle bursts and glitter trails",
+      "showering confetti and fireworks",
+      "shimmering fairy-light curtains"
+    ],
+    "moodKeywords": ["electric", "celebratory", "glamorous", "dazzling"]
+  }
+}

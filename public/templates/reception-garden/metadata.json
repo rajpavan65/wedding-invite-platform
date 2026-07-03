@@ -1,0 +1,29 @@
+{
+  "templateId": "reception-garden",
+  "functionType": "reception",
+  "durationFrames": 390,
+  "thumbnailFrame": 95,
+  "avatarSlots": {
+    "bride": { "x": 110, "y": 880, "width": 360, "height": 500, "anchorBottom": false },
+    "groom": { "x": 610, "y": 880, "width": 360, "height": 500, "anchorBottom": false }
+  },
+  "textSlots": {
+    "primaryName": { "x": 540, "y": 1400, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "secondaryName": { "x": 540, "y": 1520, "maxWidth": 900, "fontFamily": "Playfair Display" },
+    "date": { "x": 540, "y": 1620 },
+    "venue": { "x": 540, "y": 1680 },
+    "ceremonyTitle": { "x": 540, "y": 1340 }
+  },
+  "visualIdentity": {
+    "dominantPalette": ["#4F8A6D", "#F7CAC9", "#FBF2E3", "#E6A57E"],
+    "keyMotif": "twilight garden string-lights over blooming hedges",
+    "motifs": [
+      "warm string-lights strung over a garden lawn",
+      "blush blooming hedges and rose arches",
+      "fireflies drifting at twilight",
+      "ivy-wrapped lanterns and soft dusk glow"
+    ],
+    "moodKeywords": ["romantic", "natural", "warm", "intimate"]
+  },
+  "lightLeakIntensity": 0.4
+}
